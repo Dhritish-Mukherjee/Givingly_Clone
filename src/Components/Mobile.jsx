@@ -78,7 +78,7 @@ gsap.to(".thala", {
 
 gsap.to(["#id0"], {
   x: 335,
-  y: -120,
+  y: -110,
   scale:0.7,
   rotate:"2deg",
   duration: 20,
@@ -97,7 +97,7 @@ gsap.to(["#id0"], {
 
 gsap.to(["#id2"], {
   x: -630,
-  y: 220,
+  y: 240,
   scale:0.7,
   rotate:"0deg",
   duration: 20,
