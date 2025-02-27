@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+
+@font-face {
+    font-family: "Hellixm";
+    src: url("./Utils/Hellix-Medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-color: #b8cedc;
+    overflow-x: hidden;
+    overflow-y:initial;
+}
+
+@font-face {
+    font-family: "Larken";
+    src: url(../src/Utils/LarkenDEMO-Bold.otf);
+}
+
+.bow{
+    font-family: "Larken";
+}
+
+.meow{
+    font-family: "Hellixm";
+}
